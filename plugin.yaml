@@ -26,7 +26,7 @@ displayName: Example of a Plugin
 
 picture: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Circle-icons-plugin.svg/512px-Circle-icons-plugin.svg.png"
 # Especificar a categoria da stack.
-# Templates podem perceber a qualquer category
+# Plugin podem perceber a qualquer category
 category: backend
 
 # Lista de compativeis
@@ -51,4 +51,8 @@ useCase: useCase.md
 # todo: explicar melhor oque colocar nesse arquivo.
 # por padrão o valor é implementation.md
 implementation: implementation.md
+
+# tecnologies que o studio utiliza
+# Plugin podem perceber a qualquer tecnologies
+technologies: [ "Kotlin", "SpringBoot", "Golang" ]
 
