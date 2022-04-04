@@ -18,7 +18,7 @@ inputs:
     global: true
 
 # Nome com formatação livre que será exibido no portal.
-displayName: Example of a Plugin
+display-name: Example of a Plugin
 
 # caso a picture esteja fora do repo colocar uma url externa
 # Categorias disponíveis:
@@ -42,7 +42,7 @@ about: about.md
 usage: usage.md
 # Especificar um arquivo .md que explique useCase do template
 # por padrão o valor é usage.md
-useCase: useCase.md
+use-case: useCase.md
 # Especificar um arquivo .md que explique a implementation do template
 # por padrão o valor é implementation.md
 implementation: implementation.md
